@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Tegucigalpa
-tags: example-tag
+tags: OwaspTGU
 level: 0
 
 region: Latin America
