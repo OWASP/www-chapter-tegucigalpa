@@ -7,7 +7,7 @@ level: 0
 
 region: Latin America
 
-<!--auto-migrated: 1
+auto-migrated: 1
 
 ---
 
