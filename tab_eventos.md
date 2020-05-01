@@ -3,7 +3,8 @@ title: Eventos
 layout: col-siderbar
 tab: true
 order: 1
-tags:OwaspTGU
+tags: OwaspTGU
+
 ---
 
 ## Eventos 2020
