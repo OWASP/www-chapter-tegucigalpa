@@ -16,6 +16,8 @@ tags: OwaspTGU
 <br>
 Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-latam-at-home/) participamos como capítulo de Latinoamérica, con las siguientes conferencias:
 <br>
+<br>
+<br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
     <th width="10%">Horas</th>
@@ -53,7 +55,7 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
 </table>
       
 ## Eventos 2019
-### OWASP NIGHTS 2019
-### OWASP LatamTour 2019
+ - OWASP NIGHTS 2019
+ - OWASP LatamTour 2019
  
    
