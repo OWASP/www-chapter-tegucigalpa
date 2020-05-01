@@ -32,14 +32,14 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
     <td>-</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Sandy Palma</b>:<br>La Gobernanza de la Información<b>
+     <td><b>Sandy Palma</b>:<br>La Gobernanza de la Información<b></tb>
     <td>-</td>
   </tr>
   <tr>
     <td>18:40-19:20</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework<b>
+    <td><b>Raúl Aguilar</b>:<br>Security Knowledge Framework<b></tb>
     <td>-</td>
     <td>-</td>
   </tr>
@@ -47,14 +47,14 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
     <td>19:20-20:00</td>
     <td>-</td>
     <td>-</td>
-    <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión<b>
+    <td><b>Armando Rodas</b>:<br>OSINT, Técnicas de Reconocimiento en un Test de Intrusión<b></tb>
     <td>-</td>
     <td>-</td>
   </tr>
 </table>
       
 ## Eventos 2019
- - OWASP NIGHTS 2019
- - OWASP LatamTour 2019
- ---
+### OWASP NIGHTS 2019
+### OWASP LatamTour 2019
+
    
