@@ -54,7 +54,7 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
 </table>
 
 ## Presentaciones:
-### [Sandy Palma- La Gobernanza de la Informacion:] (https://drive.google.com/open?id=11F5ARGu7_9bf0vBYfVUmc8I0M_AkQvMQ)
+[Sandy Palma- La Gobernanza de la Informacion:](https://drive.google.com/open?id=11F5ARGu7_9bf0vBYfVUmc8I0M_AkQvMQ)
 
 ## Eventos 2019
 ### OWASP NIGHTS 2019
