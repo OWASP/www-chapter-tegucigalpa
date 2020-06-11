@@ -5,7 +5,7 @@ title: OWASP Tegucigalpa
 tags: OwaspTGU
 type: documentation
 level: 0
-region: Latin America
+region: South America
 
 
 ---
