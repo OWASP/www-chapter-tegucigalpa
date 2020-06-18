@@ -6,10 +6,4 @@
 
 
 
-### Collaborators
-* [Armando Rodas](mailto:armando.rodas@owasp.org)
-* [Raul Aguilar](mailto:raul.aguilar@owasp.org)
-* [Amilcar de Leon](mailto:amilcar.deleon@owasp.org)
-
-
 
