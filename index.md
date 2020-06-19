@@ -43,3 +43,4 @@ Apoyando las iniciativas de nuestro capítulo, como son:
 En nuestras redes sociales, compartimos recursos educativos y de interés. También te puedes enterar de nuestras reuniones y eventos en:
 
 - [Facebook](https://www.facebook.com/OWASPTGU/)
+- [Twitter](https://twitter.com/OWASPTGU/)
