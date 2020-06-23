@@ -56,6 +56,33 @@ Durante la gira de [OWASP LATAM at Home 2020](https://owasp.org/www-event-2020-l
 ## Presentaciones:
 [Sandy Palma- La Gobernanza de la Informacion](https://drive.google.com/open?id=11F5ARGu7_9bf0vBYfVUmc8I0M_AkQvMQ)
 
+
+### Taller de Ethical Hacking y Ciberseguridad
+<br>
+<p align="center">
+</p>
+<br>
+Durante el mes de julio del 2020, aportaremos a la comunidad de estudiantes del Centro Universitario Tecnológico (CEUTEC) con una serie de talleres que tienen como objeto el apoyo en su desarrollo profesional.
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Horas</th>
+    <th width="18%">Sabado 4</th>
+    <th width="18%">Sabado 11</th>
+    <th width="18%">Sabado 18</th>
+    <th width="18%">Sabado 25</th>
+  </tr>
+  <tr>
+    <td>18:00-21:00</td>
+    <td><b>Kevin Mejía</b>:<br>Explotación de vulnerabilidades en entornos Windows y Linux</td>
+    <td><b>Raúl Aguilar</b>:<br>Introducción a la ciberseguridad y gestión de vulnerabilidades</td>
+    <td><b>Gerardo Gomez</b>:<br>Web Hacking 101</td>
+    <td><b>Armando Rodas</b>:<br>Mobile Hacking 101</td>
+  </tr>
+</table>
+<br>
+      
+
 ## Eventos 2019
 ### OWASP NIGHTS 2019
 ### OWASP LatamTour 2019
