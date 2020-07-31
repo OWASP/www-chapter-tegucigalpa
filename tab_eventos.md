@@ -8,7 +8,19 @@ tags: OwaspTGU
 ---
 
 ## Eventos 2020
-
+<br>
+### Charla para la Escuela Happy Summer School sobre el Ciberbullying y Riesgos de las Redes Sociales .
+<br>
+<p align="center">
+   <img src="assets/images/happy.jpeg">
+   <br>
+   <img src="assets/images/happy3.jpeg">
+   <br>
+   <img src="assets/images/happy2.jpeg">
+   <br>
+</p>
+El dia 30 del mes de julio del 2020, se realizo una charla a los padres de familia de los estudiantes de la escuela Happy Summer School, esta charla tenia como fin el de concientizar a los padres sobre los riesgos de las redes sociales y los efectos/consecuencias del ciberbullying.
+<br>
 <br>
 ### Taller de Ethical Hacking y Ciberseguridad
 <br>
