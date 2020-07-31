@@ -10,6 +10,31 @@ tags: OwaspTGU
 ## Eventos 2020
 ### OWASP LATAM at HOME 2020
 <br>
+### Taller de Ethical Hacking y Ciberseguridad
+<br>
+<p align="center">
+   <img src="assets/images/taller.png">
+</p>
+Durante el mes de julio del 2020, aportaremos a la comunidad de estudiantes del Centro Universitario Tecnológico (CEUTEC) con una serie de talleres que tienen como objeto el apoyo en su desarrollo profesional.
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Horas</th>
+    <th width="18%">Sabado 4</th>
+    <th width="18%">Sabado 11</th>
+    <th width="18%">Sabado 18</th>
+    <th width="18%">Sabado 25</th>
+  </tr>
+  <tr>
+    <td>18:00-21:00</td>
+    <td><b>Kevin Mejía</b>:<br>Explotación de vulnerabilidades en entornos Windows y Linux<br></td>
+    <td><b>Raúl Aguilar</b>:<br>Introducción a la ciberseguridad y gestión de vulnerabilidades</td>
+    <td><b>Gerardo Gomez</b>:<br>Web Hacking 101</td>
+    <td><b>Armando Rodas</b>:<br>Mobile Hacking 101</td>
+  </tr>
+</table>
+<br>
+<br>
 <p align="center">
   <img src="assets/images/OwaspAtHome.png">
 </p>
