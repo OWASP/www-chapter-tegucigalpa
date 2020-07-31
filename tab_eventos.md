@@ -8,7 +8,7 @@ tags: OwaspTGU
 ---
 
 ## Eventos 2020
-### OWASP LATAM at HOME 2020
+
 <br>
 ### Taller de Ethical Hacking y Ciberseguridad
 <br>
@@ -34,6 +34,7 @@ Durante el mes de julio del 2020, aportaremos a la comunidad de estudiantes del 
   </tr>
 </table>
 <br>
+### OWASP LATAM at HOME 2020
 <br>
 <p align="center">
   <img src="assets/images/OwaspAtHome.png">
