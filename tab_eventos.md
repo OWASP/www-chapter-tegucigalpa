@@ -9,6 +9,16 @@ tags: OwaspTGU
 
 ## Eventos 2020
 <br>
+### Capacitacion Docentes UTH:Ciberseguridad .
+<br>
+<p align="center">
+   <img src="assets/images/owasp uth.jpeg">
+   <br>
+</p>
+El dia 3 del mes de septiembre del 2020, se realizo una capacitacion a los docentes del area de Informatica de la Universidad Tecnologica de Honduras(UTH). [Presentaciones](https://drive.google.com/drive/folders/1heBS5tDXwYZLfuSroPo8ufkEFWp7ERkg?usp=sharing
+)
+<br>
+<br>
 ### Charla para la Escuela Happy Summer School sobre el Ciberbullying y Riesgos de las Redes Sociales .
 <br>
 <p align="center">
