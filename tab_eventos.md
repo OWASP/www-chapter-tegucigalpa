@@ -19,6 +19,7 @@ El dia 3 del mes de septiembre del 2020, se realizo una capacitacion a los docen
 )
 <br>
 <br>
+
 ### Charla para la Escuela Happy Summer School sobre el Ciberbullying y Riesgos de las Redes Sociales .
 <br>
 <p align="center">
