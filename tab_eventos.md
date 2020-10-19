@@ -42,7 +42,7 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
     <th width="15%">Facebook</th>
   </tr>
   
-   ### Datos del Evento: 
+### Datos del Evento: 
   <tr>
     <td>26 de octubre</td>
     <td>02:00pm Hora Honduras</td>
@@ -62,7 +62,8 @@ En el mes de la concientización sobre la ciberseguridad apoyaremos a la faculta
 </p>
 Organizado por:
 -La Carrera de Pedagogia de la Universidad Nacional Autonoma de Honduras UNAH.
--Asignatura Taller de Practica Profesional Supervisada III.
+-Asignatura Taller de Practica Profesional Supervisada III.  [Presentaciones](https://drive.google.com/drive/folders/1VZItjf5UNOVufusmCMlJl4Io8mmJAHyk?usp=sharing
+)
 <br>
 <br>
 <br>
