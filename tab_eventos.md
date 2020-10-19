@@ -9,6 +9,63 @@ tags: OwaspTGU
 
 ## Eventos 2020
 <br>
+### INNOVATE 4.0 "APRENDIZAJE E INNOVACIÓN"
+En el mes de la concientización sobre la ciberseguridad apoyaremos a la facultad de ingeniería en ciencias de la computación a su evento anual INNOVATE 4.O "Aprendizaje e Innovación".
+<p align="center">
+   <img src="assets/images/unicah.jpeg">
+</p>
+<p align="center">
+   <img src="assets/images/unicah2.jpeg">
+</p>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="18%">Panel</th>
+    <th width="18%">OWASP San Pedro Sula</th>
+    <th width="18%">OWASP Tegucigalpa</th>
+    <th width="18%">OWASP Tegucigalpa</th>
+  </tr>
+  <tr>
+    <td>OWASP Honduras</td>
+    <td>Armando Reniery Rodas</td>
+    <td>Kevin Mejía</td>
+    <td>Francisco Moncada</td>
+  </tr>
+</table>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="15%">Fecha</th>
+    <th width="15%">Hora</th>
+    <th width="15%">Modalidad</th>
+    <th width="15%">Youtube</th>
+    <th width="15%">Facebook</th>
+  </tr>
+  
+   ### Datos del Evento: 
+  <tr>
+    <td>26 de octubre</td>
+    <td>02:00pm Hora Honduras</td>
+    <td>Transmisión en vivo</td>
+    <td>https://bit.ly/2GOWVCa</td>
+    <td>https://bit.ly/2IgpOrB</td>
+  </tr>
+</table>
+<br>
+
+<br>
+### Conferencia de Concientizacion sobre La Ciberseguridad.
+<br>
+<p align="center">
+   <img src="assets/images/unah.jpeg">
+   <br>
+</p>
+Organizado por:
+-La Carrera de Pedagogia de la Universidad Nacional Autonoma de Honduras UNAH.
+-Asignatura Taller de Practica Profesional Supervisada III.
+<br>
+<br>
+<br>
 ### Capacitacion Docentes UTH:Ciberseguridad .
 <br>
 <p align="center">
