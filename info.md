@@ -1,6 +1,7 @@
 ### Redes Sociales
 * [Twitter](http://twitter.com/OWASPTGU)
 * [Facebook](https://www.facebook.com/OWASPTGU)
+* [Meetup](https://www.meetup.com/OWASP-Tegucigalpa-Chapter/)
 
 ### HashTags
 
