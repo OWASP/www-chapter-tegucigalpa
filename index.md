@@ -27,6 +27,10 @@ El capítulo local “OWASP Tegucigalpa” tiene como principal objetivo compart
 
 - Eventos de OWASP.
 
+## Upcoming Meetings: 
+
+{% include chapter_events.html group=page.meetup-group %}
+
 ## Talleres
 
 - Hacking Ético.
