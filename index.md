@@ -5,8 +5,7 @@ title: OWASP Tegucigalpa
 tags: OwaspTGU
 type: documentation
 level: 0
-region: South America
-
+region: Central America
 meetup-group: OWASP-Tegucigalpa-Chapter
 country: Honduras
 postal-code: 
