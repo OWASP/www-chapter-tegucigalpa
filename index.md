@@ -50,3 +50,4 @@ En nuestras redes sociales, compartimos recursos educativos y de interés. Tambi
 
 - [Facebook](https://www.facebook.com/OWASPTGU/)
 - [Twitter](https://twitter.com/OWASPTGU/)
+- [Meetup](https://www.meetup.com/OWASP-Tegucigalpa-Chapter/)
