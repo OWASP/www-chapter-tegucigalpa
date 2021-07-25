@@ -6,7 +6,38 @@ order: 1
 tags: OwaspTGU
 
 ---
-
+## Eventos 2021
+### Auth0: Acceso seguro para todos
+<br>
+<p align="center">
+  <img src="assets/images/Christian.jpg">
+</p>
+<br>
+<b>Auth0 es una plataforma de autenticación y autorización adaptable.</b>
+<br>
+Charla impartida por el Ing. Christian Sanchez:<br>
+-Software Developer y Auth0 Ambassador<br>
+-Co-Fundador & Organizador Comunidad @DevTeam504<br>
+-Co-Organizador Comunidad Flutter Honduras y Lead en Google Developer Student Club Unah-Vs.<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>16:00-17:00</td>
+    <td>Sabado 14 de agosto</td>
+    <td><b>Christian Sanchez</b></td>
+    <td>Auth0: Acceso seguro para todos</td>
+    <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/279682660/</td>
+  </tr>
+</table>
+<br>
+<br>
 ## Eventos 2020
 <br>
 ### INNOVATE 4.0 "APRENDIZAJE E INNOVACIÓN"
