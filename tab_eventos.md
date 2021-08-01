@@ -7,6 +7,73 @@ tags: OwaspTGU
 
 ---
 ## Eventos 2021
+### Programando con ReactJS: Creando Componentes Reutilizables
+<br>
+<p align="center">
+  <img src="assets/images/kensy.jpg">
+</p>
+<br>
+<br>
+Charla Programando con ReactJS impartida por la Ing. Kensy Ayala:<br>
+-Ingeniera Informática<br>
+-Miembro de DevTeam504<br>
+-Experiencia en Soporte técnico y helpdesk<br>
+-Frontend & Backend Developer<br>
+-Angular and React lover<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>18:00-19:00</td>
+    <td>Sabado 28 de agosto</td>
+    <td><b>Kensy Ayala</b></td>
+    <td>Programando con ReactJS: Creando Componentes Reutilizables</td>
+    <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/279837235/</td>
+  </tr>
+</table>
+<br>
+<br>
+### Como Evitar Ser Victima de Ingenieria Social
+<br>
+<p align="center">
+  <img src="assets/images/aleli.jpg">
+</p>
+<br>
+<br>
+Charla "Como Evitar Ser Victima de Ingenieria Social" impartida por la Phd (C) Gizeth Aleli Castro.
+-Phd (C) en la Gestion de la Administracion Gerencial<br>
+-Master en Administracion de Empresas<br>
+-Ingeniero en Sistemas<br>
+-Licenciatura en Informatica Educativa<br>
+-Certificacion en Ethical Hacker<br>
+-Diplomado en Seguridad de Redes<br>
+-Docente Universitario<br>
+-Tutora Certificada<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>18:00-19:00</td>
+    <td>Sabado 21 de agosto</td>
+    <td><b>Gizeth Aleli Castro</b></td>
+    <td>Como Evitar Ser Victima de Ingenieria Social</td>
+    <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/279837287/</td>
+  </tr>
+</table>
+<br>
+<br>
 ### Auth0: Acceso seguro para todos
 <br>
 <p align="center">
