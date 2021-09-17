@@ -7,6 +7,38 @@ tags: OwaspTGU
 
 ---
 ## Eventos 2021
+### Taller: #TechTalk: API con NestJS y las Maravillas de TS
+<br>
+<p align="center">
+  <img src="assets/images/Lidia.jpg">
+</p>
+<br>
+<br>
+Taller: API con NestJS y las Maravillas de TS impartido por la Ing. Lidia Canales:<br>
+-Ingeniera en Electronica<br>
+-Desarrolladora de Frontend, Backend, Aplicaciones de pruebas E2E, Unit testing y despliegue de aplicaciones.<br>
+-Voluntaria en proyectos medioambientales y de educacion escolar.<br>
+-Directora de Geek Girls Latam Honduras<br>
+-Miembro de JCI<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>18:00-19:00</td>
+    <td>Sabado 2 de octubre</td>
+    <td><b>Lidia Canales</b></td>
+    <td>Taller: #TechTalk: API con NestJS y las Maravillas de TS</td>
+    <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/280834015/</td>
+  </tr>
+</table>
+<br>
+<br>
 ### Programando con ReactJS: Creando Componentes Reutilizables
 <br>
 <p align="center">
@@ -66,7 +98,7 @@ Charla "Como Evitar Ser Victima de Ingenieria Social" impartida por la Phd (C) G
   </tr>
   <tr>
     <td>18:00-19:00</td>
-    <td>Sabado 21 de agosto</td>
+    <td>Sabado 11 de Septiembre</td>
     <td><b>Gizeth Aleli Castro</b></td>
     <td>Como Evitar Ser Victima de Ingenieria Social</td>
     <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/279837287/</td>
