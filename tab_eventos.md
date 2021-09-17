@@ -74,7 +74,7 @@ Charla Programando con ReactJS impartida por la Ing. Kensy Ayala:<br>
 ### Como Evitar Ser Victima de Ingenieria Social
 <br>
 <p align="center">
-  <img src="assets/images/aleli.jpg">
+  
 </p>
 <br>
 <br>
