@@ -30,8 +30,8 @@ Taller: API con NestJS y las Maravillas de TS impartido por la Ing. Lidia Canale
      <th width="18%">Enlace</th>
   </tr>
   <tr>
-    <td>18:00-19:00</td>
-    <td>Sabado 2 de octubre</td>
+    <td>17:00-18:00</td>
+    <td>Lunes 11 de octubre</td>
     <td><b>Lidia Canales</b></td>
     <td>Taller: #TechTalk: API con NestJS y las Maravillas de TS</td>
     <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/280834015/</td>
