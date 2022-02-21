@@ -15,11 +15,11 @@ tags: OwaspTGU
 <br>
 <br>
 OWASP Tegucigalpa Chapter te Invita a la Charla "DevSecOps: Notas desde la trinchera"
-Con: Egdares Futch
-🔹Catedrático universitario en la Universidad Tecnológica Centroamericana (Honduras) y Universidad Francisco Marroquín (Guatemala)
-🔹Maestría en Finanzas en UNITEC
-🔹Ingeniero en Sistemas de la Universidad Francisco Marroquín (Guatemala)
-🔹Cuenta con múltiples certificaciones profesionales(Certified Information Systems Security Professional (CISSP); Certified Information Systems Auditor (CISA), Microsoft Certified Professional (Azure Administration & Azure Security); Six Sigma Green Belt; Information Technology Information Library (ITIL) Foundations, CobIT Foundations.)
+Con: Egdares Futch<br>
+🔹Catedrático universitario en la Universidad Tecnológica Centroamericana (Honduras) y Universidad Francisco Marroquín (Guatemala)<br>
+🔹Maestría en Finanzas en UNITEC<br>
+🔹Ingeniero en Sistemas de la Universidad Francisco Marroquín (Guatemala)<br>
+🔹Cuenta con múltiples certificaciones profesionales(Certified Information Systems Security Professional (CISSP); Certified Information Systems Auditor (CISA), Microsoft Certified Professional (Azure Administration & Azure Security); Six Sigma Green Belt; Information Technology Information Library (ITIL) Foundations, CobIT Foundations.)<br>
 <br>
 <table width="100%" border="1" style="text-align:center;">
   <tr>
