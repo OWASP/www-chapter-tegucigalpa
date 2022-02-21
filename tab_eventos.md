@@ -6,8 +6,42 @@ order: 1
 tags: OwaspTGU
 
 ---
+## Eventos 2022
+### DevSecOps: Notas desde la trinchera
+<br>
+<p align="center">
+  <img src="assets/images/Futch.jpg">
+</p>
+<br>
+<br>
+OWASP Tegucigalpa Chapter te Invita a la Charla "DevSecOps: Notas desde la trinchera"
+Con: Egdares Futch
+🔹Catedrático universitario en la Universidad Tecnológica Centroamericana (Honduras) y Universidad Francisco Marroquín (Guatemala)
+🔹Maestría en Finanzas en UNITEC
+🔹Ingeniero en Sistemas de la Universidad Francisco Marroquín (Guatemala)
+🔹Cuenta con múltiples certificaciones profesionales(Certified Information Systems Security Professional (CISSP); Certified Information Systems Auditor (CISA), Microsoft Certified Professional (Azure Administration & Azure Security); Six Sigma Green Belt; Information Technology Information Library (ITIL) Foundations, CobIT Foundations.)
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>17:00-18:00</td>
+    <td>Domingo 13 de Marzo</td>
+    <td><b>Egdares Futch</b></td>
+    <td>DevSecOps: Notas desde la trinchera</td>
+    <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/284165164/</td>
+  </tr>
+</table>
+<br>
+<br>
 ## Eventos 2021
-### Taller: #TechTalk: API con NestJS y las Maravillas de TS
+<br>
+### Taller:TechTalk: API con NestJS y las Maravillas de TS
 <br>
 <p align="center">
   <img src="assets/images/Lidia.jpg">
