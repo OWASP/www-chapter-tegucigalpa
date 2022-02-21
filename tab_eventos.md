@@ -30,7 +30,7 @@ Con: Egdares Futch<br>
      <th width="18%">Enlace</th>
   </tr>
   <tr>
-    <td>17:00-18:00</td>
+    <td>18:00-19:00</td>
     <td>Domingo 13 de Marzo</td>
     <td><b>Egdares Futch</b></td>
     <td>DevSecOps: Notas desde la trinchera</td>
