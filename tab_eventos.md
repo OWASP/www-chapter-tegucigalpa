@@ -7,6 +7,40 @@ tags: OwaspTGU
 
 ---
 ## Eventos 2022
+
+
+### Conversando con Gabriel
+<br>
+<p align="center">
+  <img src="assets/images/Gabriel.jpg">
+</p>
+<br>
+<br>
+OWASP Tegucigalpa Chapter te Invita a la Charla: "Conversando con Gabriel Bergel" 
+
+✔️Cofundador & CEO de 8.8 Congreso de ✔️Seguridad Informática 
+✔️Coordinador de El Centro de #Ciberseguridad #Industrial
+✔️Partner Asociado de Kyndryl
+✔️Anfitrión del programa #8punto8<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>17:00-18:00</td>
+    <td>Lunes 30 de Mayo</td>
+    <td><b>Gabriel Bergel</b></td>
+    <td>Conversando con Gabriel</td>
+    <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/285730553/</td>
+  </tr>
+</table>
+<br>
+<br>
 ### DevSecOps: Notas desde la trinchera
 <br>
 <p align="center">
