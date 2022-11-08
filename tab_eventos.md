@@ -8,7 +8,39 @@ tags: OwaspTGU
 ---
 ## Eventos 2022
 
-
+### Como Proteger a Tú Familia desde el Punto de Vista de la Ciberseguridad
+<br>
+<p align="center">
+  <img src="assets/images/estefany.jpg">
+</p>
+<br>
+<br>
+<h4>OWASP Tegucigalpa Chapter te Invita a la Charla: "Como Proteger a Tú Familia desde el Punto de Vista de la Ciberseguridad"</h4>
+<br>
+<p>Estefany Villamil: </p>
+<p>Ingeniero en Computación de la Universidad Tecnológica de Honduras (UTH)
+Actualmente se desempeña como Coordinadora de Programas de la Fundación Junior Achievement Honduras, coordinando e implementando programas enfocados en Educación Financiera, Emprendimiento y preparación para el mundo laboral impactando niños, jóvenes y mujeres a nivel nacional, contando con participación activa en el proceso de transformación digital de la fundación, instructora de la Academia CISCO de la Fundación para los cursos introductorios.
+Ha contado con participación en cursos y laboratorios de Hacking Ético, Fundamentos de Ciberseguridad, Fundamentos de Cómputo Forense, Normas ISO 27001 y gobernanza del internet, actualmente cursando la certificación CCNA 1 en redes en la Academia CISCO de UTH.</p>
+<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>18:00-19:00</td>
+    <td>Sabado 26 de Noviembre</td>
+    <td><b>Estefany Villamil</b></td>
+    <td>Como Proteger a Tú Familia desde el Punto de Vista de la Ciberseguridad</td>
+    <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/289630764/</td>
+  </tr>
+</table>
+<br>
+<br>
 ### Conversando con Gabriel
 <br>
 <p align="center">
