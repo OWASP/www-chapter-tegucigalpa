@@ -33,7 +33,7 @@ Ha contado con participación en cursos y laboratorios de Hacking Ético, Fundam
   </tr>
   <tr>
     <td>18:00-19:00</td>
-    <td>Sabado 26 de Noviembre</td>
+    <td>Jueves 1 de Diciembre</td>
     <td><b>Estefany Villamil</b></td>
     <td>Como Proteger a Tú Familia desde el Punto de Vista de la Ciberseguridad</td>
     <td>https://www.meetup.com/OWASP-Tegucigalpa-Chapter/events/289630764/</td>
