@@ -11,7 +11,7 @@ tags: OwaspTGU
 ### Como Proteger a Tú Familia desde el Punto de Vista de la Ciberseguridad
 <br>
 <p align="center">
-  <img src="assets/images/estefany.jpg">
+  <img src="assets/images/Estefany.jpeg">
 </p>
 <br>
 <br>
