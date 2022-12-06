@@ -7,7 +7,45 @@ tags: OwaspTGU
 
 ---
 ## Eventos 2022
-
+### La Ingenieria Social: Hackeando Personas
+<br>
+<p align="center">
+  <img src="assets/images/Kevin.png">
+</p>
+<br>
+<br>
+<h4>OWASP Tegucigalpa Chapter te Invita a la Charla: "La Ingenieria Social: Hackeando Personas"</h4>
+<br>
+<p>Kevin Mejia: </p>
+<p>
+-Lider Capitulo OWASP TGU
+-Ingeniero en Informatica
+-Consultor Seguridad Informatica
+-Certified Professional Ethical Hacker
+-Cloud Specialist
+-Microsoft Security Certified
+-AWS Technical Advisor
+-CTF Player</p>
+<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>18:00-19:00</td>
+    <td>Jueves 29 de Diciembre</td>
+    <td><b>Kevin Mejia</b></td>
+    <td>La Ingenieria Social: Hackeando Personas</td>
+    <td>https://www.meetup.com/owasp-tegucigalpa-chapter/events/290167185/</td>
+  </tr>
+</table>
+<br>
+<br>
 ### Como Proteger a Tú Familia desde el Punto de Vista de la Ciberseguridad
 <br>
 <p align="center">
