@@ -14,7 +14,7 @@ postal-code:
 
 <br>
 <p align="center">
-  <img src="assets/images/Logo_OwaspTGU.png">
+  <img src="assets/images/new2023.jpeg">
 </p>
 <br>
 
