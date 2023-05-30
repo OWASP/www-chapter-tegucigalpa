@@ -6,6 +6,49 @@ order: 1
 tags: OwaspTGU
 
 ---
+## Eventos 2023
+### ¿Cómo identificar un correo electrónico Phishing?
+<br>
+<p align="center">
+  <img src="assets/images/CarlosZ.jpg">
+</p>
+<br>
+<br>
+<h4>OWASP Tegucigalpa Chapter te Invita a la Charla: "¿Cómo identificar un correo electrónico Phishing?"</h4>
+<br>
+<p>Carlos Zavala: </p>
+<p>
+Ingeniero en Computación egresado de la Universidad Tecnológica de Honduras, actualmente se desempeña como Administrador de Sistemas y Oficial de Soporte Técnico en AJS Technologies, brindando asistencia a 2 hospitales y una empresa publicitaria en San Pedro Sula y Tegucigalpa.
+Su experiencia se basa en la administración de servidores en sistema operativo Windows 2008 a 2019 y sistemas operativos MacOS, configuración de protocolos DNS y DHCP, administración de la plataforma Microsoft 365, administración y configuración de Active Directory, Configuración y administración de software biométricos, brinda servicios de soporte técnico a usuarios finales vía remota y de manera presencial, administración y actualización de inventario de equipos, mantenimiento preventivo y correctivo de equipos Mac y equipos Windows.
+Adicionalmente, ha contado con participación en diversos cursos y talleres tales como:<br>
+•	CCNA 1: Introduction to Network<br>
+•	Hacking Etico<br>
+•	Fundamentos de Ciberseguridad<br>
+•	Fundamentos de Cómputo Forense<br>
+•	Normas ISO 27001<br>
+•	Diseño Web (JavaScript, NodeJS y Typescript)<br>
+</p>
+<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>18:00-19:00</td>
+    <td>Viernes 16 de junio 2023</td>
+    <td><b>Carlos Zavala</b></td>
+    <td>¿Cómo identificar un correo electrónico Phishing?</td>
+    <td>https://www.meetup.com/es/owasp-tegucigalpa-chapter/events/293849484/</td>
+  </tr>
+</table>
+<br>
+<br>
+
 ## Eventos 2022
 ### La Ingenieria Social: Hackeando Personas
 <br>
