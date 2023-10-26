@@ -7,6 +7,39 @@ tags: OwaspTGU
 
 ---
 ## Eventos 2023
+## Introducción a OWASP ZAP (Zed Attack Proxy)
+<br>
+<p align="center">
+  <img src="assets/images/zap.jpg">
+</p>
+<h2>OWASP Tegucigalpa Chapter le invita a la Charla sobre: Introducción a OWASP ZAP (Zed Attack Proxy) con Kevin Mejia</h2>
+<br>
+<p>
+🗓sábado, 25 de noviembre del 2023
+⏰6:00 p.m. <br>
+💻Virtual mediante Zoom <br>
+🎟Registro Requerido en: https://www.meetup.com/owasp-tegucigalpa-chapter/events/296929802/
+</p>
+<br>
+<br>
+<table width="100%" border="1" style="text-align:center;">
+  <tr>
+    <th width="10%">Hora</th>
+    <th width="18%">Fecha</th>
+     <th width="18%">Expositor</th>
+     <th width="20%">Título Charla</th>
+     <th width="18%">Enlace</th>
+  </tr>
+  <tr>
+    <td>18:00-19:00</td>
+    <td>Sabado 23 de noviembre 2023</td>
+    <td><b>Kevin Mejia</b></td>
+    <td>Introducción a OWASP ZAP (Zed Attack Proxy)</td>
+    <td>https://www.meetup.com/owasp-tegucigalpa-chapter/events/296929802/</td>
+  </tr>
+</table>
+<br>
+<br>
 ### ¿Cómo identificar un correo electrónico Phishing?
 <br>
 <p align="center">
